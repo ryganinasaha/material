@@ -1,0 +1,19 @@
+span.badge {
+    min-width: unset;
+}
+.left-menu li:hover{
+    background: #e4f6fe;
+}
+.left-menu li{
+    margin-bottom: unset;
+    padding: 5px;
+}
+.edit-btn {
+    width: 100%;
+}
+.card-image.profile {
+    padding: 20px;
+}
+.profile img {
+    max-width: 200px;
+}
